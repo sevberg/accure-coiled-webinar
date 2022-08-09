@@ -1,0 +1,5 @@
+_cluster_spinup.ipynb
+.ipynb_checkpoints/_cluster_spinup-checkpoint.ipynb
+.ipynb_checkpoints/presentation_notebook-checkpoint.ipynb
+dask-worker-space/global.lock
+dask-worker-space/purge.lock
